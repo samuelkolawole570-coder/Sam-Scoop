@@ -1,0 +1,14 @@
+samscoop-hub/
+├── public/
+│   ├── index.html
+│   ├── free-stories.html
+│   ├── premium-stories.html
+│   ├── payment.html
+│   ├── payment-success.html
+│   ├── contact.html
+│   └── admin.html
+├── server.js
+├── package.json
+├── .env.example
+├── .gitignore
+└── README.md
